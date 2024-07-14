@@ -1,0 +1,8 @@
+/*
+
+!.gitignore
+
+!alacritty/
+!fish/
+!nvim/
+!tmux/
