@@ -7,6 +7,7 @@ set -gx PATH /opt/homebrew/bin $PATH
 
 # starship
 starship init fish | source
+set -x STARSHIP_CONFIG ~/.config/starship/starship.toml
 
 # nvim
 alias vim='nvim'
