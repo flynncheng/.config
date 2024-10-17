@@ -68,7 +68,7 @@ return {
       sections = {
         lualine_a = { { "mode", separator = { left = "" }, right_padding = 2 } },
         -- lualine_a = { { "mode", separator = { left = "" }, right_padding = 2 } },
-        lualine_b = { "filename", "branch" },
+        lualine_b = { "branch" },
         lualine_c = {
           "%=", --[[ add your center compoentnts here in place of this comment ]]
         },
