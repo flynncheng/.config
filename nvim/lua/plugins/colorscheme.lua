@@ -1,5 +1,8 @@
 return {
-  { "sainnhe/everforest" },
+  {
+    "sainnhe/everforest",
+    "sainnhe/sonokai",
+  },
   {
     "LazyVim/LazyVim",
     opts = {
